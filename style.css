@@ -1,0 +1,31 @@
+.recherche{
+    background-color: #014973;
+    color: white;
+}
+.noir{
+    color: black;
+}
+.bande{
+    background-color: #EB661B;
+}
+.para{
+    display: block;
+    font-size: smaller;
+}
+.icone{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.icoon{
+    font-size: 40px;
+}
+.cont-5{
+    background-color: black;
+    display: flex;
+}
+.tout-5{
+    margin: 100px;
+    display: flex;
+    gap: 20px;
+}
