@@ -25,7 +25,22 @@
     display: flex;
 }
 .tout-5{
-    margin: 100px;
     display: flex;
     gap: 20px;
 }
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+@media screen and (max-width: 768px){
+    .produit{
+        display: none;
+
+    }
+    /* .droite{
+        display: none;
+    }*/
+    }
